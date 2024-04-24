@@ -7,4 +7,7 @@ Suppose we have a 2d surface and some little parts of  mass are being dropped on
 
 Here is a link to the [surface growth wikipedia](https://en.wikipedia.org/wiki/Surface_growth)
 
+Here is the ruslt for 100 particles falling on surface with width of 100 pixels:
+
+![image](https://github.com/mahyar-e/Ballistic-Deposition/assets/78594407/95f4f812-ae25-49f6-b2dc-dbeff2a0d94c)
 
