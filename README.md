@@ -9,5 +9,6 @@ Here is a link to the [surface growth wikipedia](https://en.wikipedia.org/wiki/S
 
 Here is the ruslt for 100 particles falling on surface with width of 100 pixels:
 
-![image](https://github.com/mahyar-e/Ballistic-Deposition/assets/78594407/95f4f812-ae25-49f6-b2dc-dbeff2a0d94c)
+![download](https://github.com/mahyar-e/Ballistic-Deposition/assets/78594407/5e837b82-03cf-49e6-956a-3557ffbe11b5)
+
 
